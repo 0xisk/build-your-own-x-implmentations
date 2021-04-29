@@ -1,6 +1,8 @@
 [submodule "build-your-own-blockchain-crytpocurrency"]
 	path = build-your-own-blockchain-crytpocurrency
 	url = git@github.com:iskanderandrews/build-your-own-blockchain-crytpocurrency.git
+	branch = master
 [submodule "build-your-own-network-stack"]
 	path = build-your-own-network-stack
 	url = git@github.com:iskanderandrews/build-your-own-network-stack.git
+	branch = master
