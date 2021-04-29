@@ -1,0 +1,3 @@
+[submodule "build-your-own-blockchain-crytpocurrency"]
+	path = build-your-own-blockchain-crytpocurrency
+	url = git@github.com:iskanderandrews/build-your-own-blockchain-crytpocurrency.git
